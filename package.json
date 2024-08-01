@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json.schemastore.org/package.json",
+  "name": "eslint-formatter-silent",
+  "type": "module",
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "peerDependencies": {
+    "eslint": "*"
+  }
+}
